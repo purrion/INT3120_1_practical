@@ -52,7 +52,7 @@ object Article {
         modifier: Modifier = Modifier,
         bannerDescription: String? = null,
     ) {
-        Column(modifier = Modifier) {
+        Column(modifier = modifier) {
             Banner(
                 imagePainter = bannerImagePainter,
                 contentDescription = bannerDescription
