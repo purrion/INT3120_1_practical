@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork_title_1">Café Terrace at Night</string>
+    <string name="artwork_artist_1">Vincent van Gogh</string>
+    <string name="artwork_year_1">1888</string>
+
+    <string name="artwork_title_2">The Great Wave off Kanagawa</string>
+    <string name="artwork_artist_2">Katsushika Hokusai</string>
+    <string name="artwork_year_2">1831</string>
+
+    <string name="artwork_title_3">Water Lilies</string>
+    <string name="artwork_artist_3">Claude Monet</string>
+    <string name="artwork_year_3">1919</string>
+
+    <string name="artwork_title_4">The Scream</string>
+    <string name="artwork_artist_4">Edvard Munch</string>
+    <string name="artwork_year_4">1893</string>
+</resources>
